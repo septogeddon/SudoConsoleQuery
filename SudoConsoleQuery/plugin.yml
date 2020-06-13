@@ -1,0 +1,6 @@
+name: SudoConsoleQuery
+version: 1.0
+author: Septogeddon
+main: septogeddon.sudoconsolequery.spigot.SudoConsoleQuerySpigot
+depend:
+- PluginQuery
